@@ -3,7 +3,7 @@
 //  ToDo
 //
 //  Created by agmma on 2024/01/03.
-//
+// Todo model
 
 import Foundation
 import SwiftData
